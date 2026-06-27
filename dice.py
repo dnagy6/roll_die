@@ -1,5 +1,5 @@
 """
-Participation Activity 2: Roll_Dice
+Participation Activity 3: Roll_Dice
 
 Description:
 Make a class Die with one attribute filled sides, which has a default value 
